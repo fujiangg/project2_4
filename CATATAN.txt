@@ -1,0 +1,6 @@
+pembaharuan dari projek sebelumnya, versi terbaru sekarang
+log user dan status user udah bisa tapi belum diedit dan dirapihin
+
+Tampilannya udah dirapihin, tapi pas add data masih statis
+
+
